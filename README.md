@@ -1,2 +1,4 @@
 # hello-world
-my firs repo
+my first repo
+
+yeah the first commit!! :D
